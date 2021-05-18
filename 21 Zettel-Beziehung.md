@@ -1,0 +1,11 @@
+# Zettel-Beziehung
+
+**Zettel-Beziehung**
+
+Entscheidend bei der Registrierung von publizierten Texten in einem Zettelkasten oder -katalog bleibt die Abbildungsrelation zwischen Zettel und Buch. Denn im Gegensatz zu den fest fixierten Einträgen einer fortgesetzten Liste auf streng aufeinander folgenden Buchseiten (Exzerptenheft) lassen sich Zettel als frei bewegliche Einheiten in immer neuen Dispositionen formieren. Ein Zettel dient zunächst als einzelner Zeiger (Pointer), der anhand einer Signatur auf eine Adresse, den Ort der Schrift im Regal, verweist. Doch zeigt er nicht nur auf den Standort, wo ein Text tatsächlich anzutreffen sein soll. Darüber hinaus verwaltet er ein hochkomprimiertes Ensemble von Daten, die das vorzufindende Buch charakterisieren. Idealerweise enthält der Zettel nicht nur die vollständigen bibliographischen Angaben (mit ausführlichem Titel, Untertitel, beteiligte Autoren, etc.), sondern ebenso eine kurze inhaltliche Erschließung. Er liefert somit ein Derivat des Texts, den er vertritt. Die "Titelcopie" wird nicht nur zum Verwalter des Zugriffs, sondern gerät zum Repräsentanten der Schrift, die mitunter gar nicht mehr selbst gelesen werden muß. Die repräsentative Funktion lenkt davon ab, was sie referenziert. Das Lesen der Inhaltsangabe, oder noch knapper: des Titels, bewahrt vor weitergehender Lektüre. So verwundert es kaum, daß um 1800 - in Zeiten von hochflutenden Büchermengen in neugeschaffenen Bibliotheken - die Stellvertretung auf kleinen, beweglichen Karten eine erste Hochkunjunktur erfährt. So auch bei einer anderen Reduktion auf (Adels-)Titel, in der sich Signifikate fortan erübrigen: "Man kommt in eins unserer berühmten Bäder, schickt ein Paar Stunden nach der Ankunft ein Paar hundert Visiten-Karten herum, und noch den nämlichen Tag ist man in der ganzen Gesellschaft der Kurgästen eingeführt, und mit zwey bis dreyhundert Menschen so bekannt, als ob man schon viele Jahre mit ihnen gelebt hätte."
+(Anonym, "Neueste Moden in Visiten-Karten". In: Journal des Luxus und der Moden, Jg. 10, 1795, S. 147-150, Seite 148. Das Lesen von Doktor- und Adelstiteln auf kleinen Karten gleicht indes dem Zugriff auf Bücher, die man nicht liest, aber dennoch kennt - zumindest deren Titel und Namen.)
+
+## null
+
+WWW: http://www.hyperdis.de/enzyklopaedie/odyssee_lexikon.html [ID 4]
+
