@@ -1,8 +1,8 @@
-# Ist es möglich, beim Übertragen von Text aus anderen Programmen in das Eingabefeld die...
+# When transferring text from other programs to the input field, is it possible to ...
 
-Der Zettelkasten übernimmt keine Formatierungen von anderen Programmen, sondern "verliert" diese, wenn man die Eingabe an einem Eintrag abschließt. Man kann aber bei der Neueingabe selbst Formatierungen am Text vornehmen. Damit man jedoch weiß, welche Wörter/Satzstücke im Original welche Formatierung haben, bietet es sich daher an, im Menü Grundeinstellungen die Option Origninalformatierung beim Einfügen beibehalten auszuwählen. Der eingefügte Text behält dann während der Eingabe die Originalformtierung. Jetzt kann man die entsprechenden Wörter/Satzstücke markieren und mit den Formatfunktionen des Zettelkastens "nachformtieren".
+*Zettelkasten* does not preserve formating from other programs but removes it once the input of an entry is finished. User-defined formatting during the text entry is supported. A standard approach would be to activate the option "Keep original formatting when inserting" in the basic settings. This preserves the text formatting of the copied text. Now it depends to the user to apply the *Zettelkasten* formatting commands manually to preserve the original formatting of the words/phrases. Otherwise the formatting will be removed upon saving.
 
 ## null
 
-Programm: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
+Program: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
 

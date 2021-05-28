@@ -1,9 +1,10 @@
-# Kann ich Einträge bestimmten Kategorien zuordnen?
+# Can I add entries to categories?
 
-Nein, das geht nicht. Während viele Programme zum Verwalten von Notizen die Einträge mithilfe von hierarchisch gegliederten Kategorien strukturieren, setzt der Zettelkasten bewusst nicht auf dieses Prinzip. Durch das Abstrahieren der Zettelordnung von den Inhalten (durch Vermeidung von Kategorisierung) in Verbindung mit der Verschlagwortung von Zetteln entsteht so ein vernetztes System von Einträgen, das dadurch bedingt einen kreativen Zufall automatisch eingebaut hat (siehe auch Kommentar zu Luhmanns Zettelkasten http://www.sciencegarden.de/meinung/200107/lxuhmann/luhmann.php auf Sciencegarden.de). 
+No, you cannot. While many programs for managing notes allow the user to structre the entries in hierarchical categories, *Zettelkasten* deliberately does not follow this principle. By preventing the user from categorization, the note order decouples from the note content. In combination with the tagging of notes, an interconnected system of entries is created which facilitates creative randomness (see also the (German) comment on Luhmann's slip box http://www.sciencegarden.de/meinung/200107/lxuhmann/luhmann.php on Sciencegarden.de). 
+
 
 
 ## null
 
-Programm: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
+Program: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
 
