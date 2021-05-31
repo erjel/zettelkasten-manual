@@ -1,8 +1,8 @@
-# Ist es möglich ein ganzes Suchergebnis mit allen Zetteln in Word zu kopieren und dort weiter zu...
+# Is it possible to copy a whole search result with all notes into Microsoft Word and to continue...
 
-Ja. Man kann dies einfach über die Exportfunktion im Menü Datei des Suchergebnisfensters machen. Die Suchergebnisse können dann als Textdatei exportiert werden. Es wird empfohlen, die beiden letzten Exportoptionen fortlaufend in einer Datei und im RichTextFormat speichern zu aktivieren. Die exportierte RTF-Datei kann anschließend mit Word bearbeitet werden.
+Yes. This can be done with the export function in the File menu of the search result window. The search results can then be exported as text file. It is recomended to enable "Save continously in a file" and "Save in RichTextFormat". The exported RTF file can be edited with Microsoft Word afterwards.
 
 ## null
 
-Programm: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
+Program: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
 

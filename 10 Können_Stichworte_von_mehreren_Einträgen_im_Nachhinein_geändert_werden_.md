@@ -1,10 +1,10 @@
-# Können Stichworte von mehreren Einträgen im Nachhinein geändert werden?
+# Can keywords from multiple entries be changed afterwards?
 
-**Können Stichworte von mehreren Einträgen im Nachhinein geändert werden?**
+**Can keywords of several entries be changed afterwards?**
 
-Ja, man kann dies mit der Funktion Suchen/Ersetzen (Menü Bearbeiten) machen. Einfach das zu suchende Stichwort (bzw. Suchbegriff) und den neuen Begriff eingeben, anschließend noch angeben, wonach gesucht werden soll (Text, Autor, Stichwort...) und die Eingabe bestätigen.
+Yes, the Search/Replace function (Edit menu) is your tool of choice. Just enter the keyword (or search term) and its replacement. Then specify what to search for (text, author, keyword ...) and confirm the entry.
 
 ## null
 
-Programm: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
+Program: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
 

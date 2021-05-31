@@ -1,8 +1,10 @@
-# Ist es möglich Zettelkasten-Einträge zu synchronisieren?
+# Is it possible to synchronize the notes?
 
-Wenn man an verschiedenen Rechnern mit einer Zettelkastendatei arbeitet, möchte man gerne die Dateien "abgleichen", sodass sich auf jedem Rechner alle Einträge befinden. Dies kann mit der Import/Export-Funktion im Menü Datei durchgeführt werden. Einfach die zu importierende Zettelkastendatei auswählen, und im Importfilter die Option Doppelte Einträge sollen herausgefiltert werden auswählen. Somit werden nur neue, noch nicht vorhandene Einträge in die geöffnete Datei übernommen. Das ganze wiederholt man entsprechend auf dem anderen Rechner. So hat man die Zettelkästen synchronisiert.
+When working with a *Zettelkasten* on different computers, it is benifical to automatically synchronize the files on the different machines. This can be done with the Import/Export function in the File menu. Just select the *Zettelkasten* file you want to import and select the option "Filter out duplicates" in the import filter. Only new, not yet existing entries are newly created. Repeat the process on the other computer. Congratulation! You just have synchronized the *Zettelkasten* files.
+
+With a cloud drive (i.e. Dropbox, Google Drive, or a self-hosted OwnCloud instance) this process can be further automated. Just synchronize the save location of the *Zettelkasten* file and close the program after you have finished your session. The files are synchronized over the network. Keep in mind that the *Zettelkasten* version has to match on both machines.
 
 ## null
 
-Programm: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
+Program: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
 
