@@ -1,14 +1,14 @@
-# Zettelkasten von Niklas Luhmann
+# Slip box by Niklas Luhmann
 
-**Zettelkasten**
+**Slip box**
 
-"Zur technischen Ausstattung des Zettelkastens gehören hölzerne Kästen mit nach vorne ausziehbaren Fächern und Zettel im Oktav-Format. Diese Zettel sollten nur einseitig beschrieben werden, damit man beim Suchen von vorne lesen kann'' (Niklas Luhmann) aus: http://infosoc.uni-koeln.de/synapsen/MnemoNet/MnemoNet.html
+"The techincal equipment of the slip box includes wooden boxes with compartments that can be pulled out to the front and slips of paper in octavo format. These slips of paper should be written on one side only, so that one can read from the front when searching" (Niklas Luhmann) in: http://infosoc.uni-koeln.de/synapsen/MnemoNet/MnemoNet.html
 
-"Jede Notiz ist nur ein Element, das seine Qualität erst aus dem Netz der Verweisungen und Rückverweisungen im System erhält.'' ([28], Seite 58) Am Ende eines jeden Eintrags befinden sich Stichworte, die als Hyperlinks auf verwandte Einträge verweisen. Das Eingabeprogramm Synapsen generiert diese Liste automatisch, indem es neu eingegebene Stichworte mit allen bereits bekannten vergleicht. Zwei Einträge, die unter demselben Stichwort erscheinen, verknüpft Synapsen beidseitig mit Hyperlinks, infolgedessen ein Faden für einen späteren Leseweg auf Aufnahme wartet.
+"Each note is only one element, which gets its quality only from the network of references and back-references in the system." ([28], page 58) At the end of each entry are keywords that act as hyperlinks to related entries. The program "Synapsen" generates this list automatically by comparing newly created keywords with all exsiting ones. Two entries that appear under the same keyworde are linked by "Synapsen" on both sides with hyperlinks. This gives rise to a line of thought which can be picked up during a later reading session.
 
-Erweist sich dem Lesegedächtnis ein Stichwort als unbekannt, schreibt sich der neue Begriff mit Referenz auf den aktuellen Eintrag in den Speicher und das Stichwortverzeichnis ein. Jeder nachfolgende Eintrag mit demselben Stichwort greift auf den Referenzeintrag zurück, indem die beidseitige Vernetzung erfolgt. ,,Als Ergebnis längerer Arbeit mit dieser Technik entsteht eine Art Zweitgedächtnis, ein Alter ego, mit dem man laufend kommunizieren kann.'' ([28], Seite 57)
+If the keyword is unknown, it is saved in memory and the keyword directory together with a reference to the current entry. Each subsequent entry with the same keyword refers back to the refeence entry by two-way linking. "As a result of prolonged work with this technique, a kind of second memory is created, an alter ego with which one can communicate continuously." ([28], page 57)
 
-Die Verweisliste eines jeden Eintrags dient als Ausgangspunkt zu einer enzyklopädischen Lesereise durch den eigenen Textspeicher, der damit anschlußfähige Gedanken in verwandten Texten auf den Weg bringt. Thematisch gebündelt liefert die Liste einen assoziativen Index, der Argumentationslinien konstruiert, indem er an vom Leser mitunter vergessene Texte per Hyperlink erinnert.
+The reference list of each entry serves as a strating point for an encyclopedic reading journey through your own text memory, which thus sets off connectable thoughts in related texts. Thematically bundled, the list provides an associative index that constructs lines of reasoning by reminding readers forgotten texts by hyperlinks.
 
 ## null
 

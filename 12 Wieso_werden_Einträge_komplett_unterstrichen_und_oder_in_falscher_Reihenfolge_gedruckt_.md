@@ -1,4 +1,4 @@
-# Wieso werden Einträge komplett unterstrichen und/oder in falscher Reihenfolge gedruckt?
+# Why are entries underlined completely and/ or in the wrong order during printing?
 
-Der Zettellkasten greift zur Darstellung von Text und zum Drucken von Einträgen auf eine bestimmte Windows-Komponente zu. Diese variiert je nach Windows- und Office-Version. Vermutlich liegt es an Problemen mit älteren Versionen dieser speziellen Komponente, die zum fehlerhaften Ausdruck führen. Derzeit besteht leider noch keine Lösung für dieses Problem.
+*Zettelkasten* uses for the visualization of text and during the printing of entries a certain Windows component. This component varies depending on the Windows and Office version. Probably the error emerges due to an older version of this specific component which leads to fraudulent print outs. Currently no fix is available. 
 

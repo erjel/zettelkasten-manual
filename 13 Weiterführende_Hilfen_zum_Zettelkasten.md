@@ -1,7 +1,7 @@
-# Weiterführende Hilfen zum Zettelkasten
+# Additional help
 
-**Weiterführende Hilfen zum Zettelkasten**
+**Additional help**
 
 Workshop
-Beispiel-Zettelkasten (zur Grounded Theory)
+Example slip box on Grounded Theory
 

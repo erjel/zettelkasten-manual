@@ -1,10 +1,10 @@
-# Wie kann ich einen Einschub (Tabulator) im Textfeld erreichen?
+# How do I indent (tab) text in the text field?
 
-**Wie kann ich einen Einschub (Tabulator) im Textfeld erreichen?**
+**How can I indent (tab) text in the text field?**
 
-Im Texteditor kann man mit der Tabulaturtaste einen Einschub vornehmen. Dies geht im Zettelkasten nicht, da mit der Tab-Taste der Eingabecursor zum nächsten Eingabefeld gesetzt wird. Um dennoch einen Einschub zu erreichen, muss man die Tabulatortaste mit gedrückter Strg-Taste bedienen.
+In a text editor you can use the tab key to indent text. In *Zettelkasten* tthis does not work. The tab key makes the cursor jump to the next text field. To indent text you have combine the tab key with the control key (Tab + Ctrl). 
 
 ## null
 
-Programm: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
+Program: Zettelkasten - Homepage, FAQ, http://zettelkasten.danielluedecke.de/ [ID 2]
 
