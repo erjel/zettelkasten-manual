@@ -1,10 +1,10 @@
-# Zettelkasten à la Leibniz
+# Slip box à la Leibniz
 
-**Zettelkasten à la Leibniz**
+**Slip box à la Leibniz**
 
-"Was ihm theils beym Durchlesen vieler Bücher, theils bey dem Meditiren, auf Reisen, beym Spazierengehen &c. einfiel, das schrieb er auf Zettel, die er aber (zumal die Excerptenzettel) nicht in Unordnung liegen ließ, sondern sie von Zeit zu Zeit in Ordnung zu legen pflegte."
-(Christoph Gottlieb von Murr, "Von Leibnitzens Exzerpirschrank". In: Journal zur Kunstgeschichte und allgemeinen Litteratur, Jg. VII, 1779, S. 210-212, hier Seite 211.)
-Nicht erst Nietzsche weiß von den guten Gedanken, daß sie im Freien, also etwa auf Reisen oder Wanderungen, geboren werden. Auch Gottfried Wilhelm Leibniz trägt zu diesem Zweck stets einige Blätter Papier bei sich, um so der eingangs zitierten Praxis nachkommen zu können. Denn als Kameralist weiß er, daß zur Verwaltung des Flüchtigen der Denk-Zettel als Speichermedium unerläßlich bleibt. Zum dauerhaften Merken überführt Leibniz seine Einfälle, Exzerpte und Notate derweil nicht nur auf Zettel, um sie beizeiten zu sichten und neu zu ordnen. "Vielmehr schaffte er sich nachher einen besondern Schrank an, seine Excerpta aufzuheben;" (Ebd.) Es sind diese Apparaturen der Ordnung und Aufbewahrung, die Banken voll gesammelter Daten, mit deren Hilfe ein dauerhafter und effektiver Zugriff auf die einmal zugeführten Bausteine gewährleistet bleibt. Sie dienen dazu, das Eingeschriebene stets zuverlässig hervorzuholen, das Notierte mithin ohne umständliche Nachforschungen und mühsames Erinnern herbeirufen zu können, also - buchstäblich - zu zitieren.
+"What occured to him partly while reading through many books, partly while meditating, on journeys, while walking, etc., he wrote down on slips of paper, which he did not leave in disorder (especially the excerpt slips), but used to put them in order from time to time".
+(Christoph Gottlieb von Murr, "Von Leibnitzens Exzerpirschrank". In: Journal zur Kunstgeschichte und allgemeinen Litteratur, Jg. VII, 1779, S. 210-212, here page 211.)
+Not only Nietzsche knows about the good thoughts that they are born in the open air, for example on journeys or hikes. Also Gottfried Wilhelm Leibniz always carries some sheets of paper with him for this purpose, in order to be able to follow the practoce quoted at the beginning. For him as a cameralist, he knoes that for the administration of the ephemeral, the note remains indispensable as a storage medium. For permanent storage, Leibniz did not only transfer his ideas, excerpts, and notations to slips of paper in order to sift through and reorganizes them in due time. "Rather, he subsequently acquired a special cabinet to store his excerpta;" (Ibid.) It is these apparatuses of order and storage, the banks full of collected data, with the help of which permanent and effective access to the once supplied building blocks remains guranteed. They serve to always reliably retrieve what has been written down, to be able to call up what has been noted down without laborious research and tedious recollection, thus - literally - to recite.
 
 
 

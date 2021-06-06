@@ -1,22 +1,22 @@
-# Urszene des Zettelkastens
+# The history of slip boxes 
 
-**Urszene des Zettelkastens**
+**The history of slip boxes**
 
-Die vielleicht früheste explizite Beschreibung einer Praxis von Verzettelung zeigt sich in der Vorgehensweise, anhand derer Konrad Gessner (1516--1565), Polyhistor und Vater der modernen Bibliographie, seine alphabetischen und systematische Bücher-Listen pflegt -- eigenhändig versteht sich und in jahrelanger einsamer und mühseliger Nachtarbeit. Grundlage seiner Tätigkeit ist eine sorgfältige und alles umfassende Sammlung von Literatur, wobei Gessner nicht davor zurückschreckt, auch Entlegenes und Abseitiges aufzunehmen.
+Perhaps the earliest explicit description of the use of notes to capture a large amount of knowledge was used by Konrad Gessner (1516--1565), polyhistor and father of modern bibliography. He maintained his alphabetical and systematic lists of books -- single-handedly, of course, and in years of slitary and laborious work. The basis of his activity was a careful and all-encompassing collection of literature, whereby GEssner did not shy away from including even remote and off-the-beaten-path information.
 
-"Das Material habe ich von überall her zusammengetragen: aus Katalogen von Druckern, deren ich nicht wenige aus verschiedenen Gegenden zusammengesucht habe; aus Verzeichnissen von Bibliotheken, auch aus Bibliotheken selbst, öffentlichen ebenso wie privaten, die ich in ganz Deutschland und Italien sorgfältig eingesehen habe, aus Briefen von Freunden, aus Berichten von Gelehrten und schließlich aus Schriftstellerkatalogen"
-(Gessner, Konrad, 1545, Bibliotheca Universalis, sive Catalogus omnium scriptorum locupletissimus, in tribus linguis, Latina, Graeca, & Hebraica, Christoph Froschauer, Zürich, Fol. 3r, übersetzt von Zedelmaier, Helmut, 1992, Bibliotheca universalis und Bibiliotheca selecta. Das Problem der gelehrten Ordnung in der frühen Neuzeit, Bd. 33 von Beihefte zum Archiv für Kulturgeschichte, Böhlau, Köln, Weimar, Wien, S. 22f.)
+"I have gathered the material from everywhere: from catalogs of printes, of which I have gathered quite a few from different regions; from catalogs of libraries, also from libraries themselves, public as well as private, which I have carefully consulted throughout Germany and Italy, from letters of friend, from reports of scholars, and finally from catalogs of writers."
+(Gessner, Konrad, 1545, Bibliotheca Universalis, sive Catalogus omnium scriptorum locupletissimus, in tribus linguis, Latina, Graeca, & Hebraica, Christoph Froschauer, Zürich, Vol. 3r, translated by Zedelmaier, Helmut, 1992, Bibliotheca universalis und Bibiliotheca selecta. Das Problem der gelehrten Ordnung in der frühen Neuzeit, Bd. 33 von Beihefte zum Archiv für Kulturgeschichte, Böhlau, Köln, Weimar, Wien, S. 22f.)
 
-Wie nun mit dem derart angehäuften Material weiter zu verfahren sei, darüber gibt Gessner unter der entsprechenden Systemstelle seiner Pandectae, dem zweiten Band der Bibliotheca Universalis, namens "De indicibus librorum" bereitwillig Auskunft. Zunächst einmal gilt es zu lesen, und zwar vorzüglich jene Bücher, die über ein Register verfügen, um aus den dort aufgeführten Materialien wiederum eigene Indizes zu erstellen. Aufgenommen werden zu diesem Zweck die Kapitelüberschriften, um sie als locos communes zu verwenden. Dieses Verfahren legt nicht ohne Grund die Auffassung nahe, die Bibliotheca Universalis selbst als Index der Indizes zu verstehen, als ein Register zweiter Ordnung.
-Die Verarbeitung der Exzerpte, die -- und dieser Begriff ist wörtlich zu nehmen -- Verzettelung, folgt dem einfachsten aller geeigneten Algorithmen:
+How to proceed with the accumulated material, Gessner willingly provides information under the corresponding system passage of his Pandectae, the second volume of the Bibliotheca Universalis, called "De indicibus librorum". First of all, it is necessary to read, and in particular those books that have an index, in order to use the listed items for personal indices. For this purpose, the chapter headings are recorded and used as locos communes. This procedure suggests, not without readon, that the Bibliotheca Universalis itself can be viewed as an index of indexes, or a meta index of second order.
+The processing of the excerpts, the -- and this term is to be taken literally -- note taking, follows the simplest of all suitable algorithms:
 
-1. Beim Lesen ist alles von Wichtigkeit und was eine Verwendung verheißt auf ein einseitig zu beschreibendes Blatt von guter Qualität zu übertragen. 
-2. Jeder neue Gedanke gerät in eine neue Zeile. 
-3. "Endlich sollst du alles, was du herausgeschrieben hast, mit der Schere zerschneiden; die Teile aber ordnest du nach Belieben, zunächst in größere Abteilungen, die du dann nochmals ein oder zweimal untergliederst bzw. so oft es nötig sein wird."
-(Gessner, Konrad, 1548, Pandectarum sive Partitionum universalium, Christoph Froschauer, Zürich, Fol. 20r, übersetzt von Zedelmaier, Helmut, 1992, Bibliotheca universalis und Bibiliotheca selecta. Das Problem der gelehrten Ordnung in der frühen Neuzeit, Bd. 33 von Beihefte zum Archiv für Kulturgeschichte, Böhlau, Köln, Weimar, Wien, S. 104.)
-4. Sobald die gewünschte Ordnung hergestellt ist, arrangiert und sortiert auf Tischen oder in kleinen Kästchen, muß sie fixiert werden, sofern sie nicht direkt abgeschrieben wird. 
+1. During reading, everything of importance and what promises later usefulness has to be written on  to a sheet of good quality, one-sided paper. 
+2. Every new thought is captured in a new line. 
+3. "Finally you should cut up everything you noted down with scissors; but the parts you should arrange as you please, first into larger divisions, which you then subdivide again once or twice, as as often as it will be necessary."
+(Gessner, Konrad, 1548, Pandectarum sive Partitionum universalium, Christoph Froschauer, Zürich, Vol. 20r, translated by Zedelmaier, Helmut, 1992, Bibliotheca universalis und Bibiliotheca selecta. Das Problem der gelehrten Ordnung in der frühen Neuzeit, Bd. 33 von Beihefte zum Archiv für Kulturgeschichte, Böhlau, Köln, Weimar, Wien, S. 104.)
+4. Once the desired order is established, arranged, and sorted on tables or in small boxes, it must be fixed, unless it is copied directly. 
 
-Fixieren heißt, die beweglichen Zettel / Papierschnipsel auf einem Blatt zu bannen, sie mit Klebstoff zu befestigen. Doch sollte diese Fixierung stets noch über eine Option zur Verschiebung verfügen, so daß entweder ein wasserlöslicher Leim zur Verwendung gelangen muß, oder aber ein System, das Einschübe, Umordnungen, kurz Beweglichkeit auch im Nachhinein noch ohne größeren Aufwand ermöglicht.
+Fixing means to capture the movable slips of paper / paper scraps on a sheet, to fix them with glue.  Yet, the fixation should always provide an option for displacement, so that either a water-soluble glue must be used, or a system that allows insertions, rearrangements, in short movability even afterwards without mush effort.
 
 ## null
 

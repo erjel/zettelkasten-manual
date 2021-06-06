@@ -1,8 +1,8 @@
-# Was leistet ein Zettelkasten? 
+# What is the benefit of a slip box? 
 
-**Was leistet ein Zettelkasten?** 
+**What is the benefit of a slip box?** 
 
-Er stellt keineswegs bloß eine schlichte Merkhilfe dar, die Aufgeschriebenes zur gegebenen Zeit wieder zu lesen und zu erinnern erlaubt. Ein Zettelkasten ist gleichfalls eine Sortierhilfe durch seine beweglichen Einheiten im wohldefinierten, d.h. standardisierten, gleichgerichteten Format. Entscheidend ist dabei nicht der individuelle Eintrag, sondern die Anordnung einer Vielzahl von Zetteln nach einem raffinierten Regelwerk, das die modularen Textbausteine gemäß einer differenzierten Systematik kombiniert und verschaltet. Darüber hinaus dient ein Zettelkasten seinerseits als Suchmaschine mit Hilfe der feingegliederten systematischen oder alphabetischen Ordnungsschemata und Register. Und schließlich kann man ihn als Rechenmaschine verwenden nicht zuletzt im strengen Sinn der Etymologie von rechnen als "ordnen", "lenken" und "zubereiten" etwa von möglichen Argumentationen durch Verknüpfungen und Querverweise, die der Kasten seinem stöbernden Betreiber anbietet.
+It is by no means a simple memory aid, which allows to read and remember what has been written down at a given time. A slip box is also a sorting aid due to the possibility to rearange its movable units in a well-defined, i.e. standardized, uniform format. The decisive factor is not the individual entry, bit the arrangement of a multitude of slips of paper accordung to a sophisticated set of rules that combines and interconnects the modular text pieces according to a dofferentiated system. In addition, a card index in turn serves as a search engine with the help of the finely structured systematic or alphabetical order schemes and registers. Finally, you can use it as a calculating machine in the strict sense of the etymology of calculating as "arranging", "directing", and "preparing" of possible augmentations for its user by linkages and cross references.
 
 ## null
 
